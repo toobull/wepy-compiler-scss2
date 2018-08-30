@@ -1,0 +1,21 @@
+{
+  "name": "wepy-compiler-scss2",
+  "version": "1.0.3",
+  "description": "wepy compile scss, extend with postcss",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass",
+    "scss",
+    "postcss",
+    "plugins"
+  ],
+  "author": "toobull <q@toobull.com>",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^7.0.2",
+    "node-sass": "^4.0.0"
+  }
+}
